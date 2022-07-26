@@ -1,1 +1,2 @@
-"# simple_crud_app_php" 
+# simple crud app in php
+`using MySQLi procedural`
